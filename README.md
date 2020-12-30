@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Languages I worked with:
+Python 
+SQL
+JavaScript
+HTML
+CSS
+PHP
+C++
+
+Fun fact: I am self taught.
+
+
+
