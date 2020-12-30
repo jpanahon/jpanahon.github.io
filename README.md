@@ -1,4 +1,4 @@
-### Hi there 👋
+### About Me
 
 <!--
 **OneEyedKnight/OneEyedKnight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Languages I worked with:
-Python 
-SQL
-JavaScript
-HTML
-CSS
-PHP
-C++
+Languages I worked with: <br>
+Python <br>
+SQL <br>
+JavaScript <br>
+HTML <br>
+CSS <br>
+PHP <br>
+C++ <br> <br>
 
 Fun fact: I am self taught.
 
