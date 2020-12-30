@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p> I am a mess and no lifer that can program in seven different programming languages. Outside of coding I play video games (primarily Minecraft), like to cook, and read online. 
+I am currently a high school senior wanting to pursue Computer Science as a major to become a software engineer. I can never write lines of code that work on the first try and always commit code without double-checking it.
+</p>
 
 Languages I worked with: <br>
 Python <br>
@@ -24,7 +27,6 @@ CSS <br>
 PHP <br>
 C++ <br> <br>
 
-Fun fact: I am self taught.
 
 
 
