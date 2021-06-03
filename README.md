@@ -25,12 +25,6 @@ CSS <br>
 PHP <br>
 C++ <br> <br>
 
-### Things about me that might interest you:
-I taught myself how to program. <br>
-I like pop/pop rock/pop punk. <br>
-I am mostly active on discord. <br>
-I am a cis-gender male. You can guess what my pronouns are. <br>
-I like Star Wars.
 
 ## Coding Projects I have worked on
 [Infamous](https://www.github.com/OneEyedKnight/Infamous) - Written in Python. <br>
