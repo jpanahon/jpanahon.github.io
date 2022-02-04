@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p> I am a mess and that can program in seven different programming languages. </p>
+<p> I am a mess and that can program in eight different programming languages. </p>
 
 ### Languages I worked with:
 Python <br>
@@ -23,7 +23,8 @@ JavaScript <br>
 HTML <br>
 CSS <br>
 PHP <br>
-C++ <br> <br>
+C++ <br> 
+C (currently learning) <br> <br>
 
 
 ## Coding Projects I have worked on
