@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p> 
-I am a mess that can program in eight different programming languages. <br>
+I am a mess that can program in ten different programming languages or technologies. <br>
 I am mostly self taught, but I would not consider myself proficient any language as I am always learning. <br>
 Not currently looking for any collaborators in my projects, but contributions are welcome. <br>
 I don't mind if you fork my repositories, as long as you keep your fork open source. <br>
