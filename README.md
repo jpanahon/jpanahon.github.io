@@ -23,14 +23,7 @@ I don't mind if you fork my repositories, as long as you keep your fork open sou
 </p>
 
 ### Languages and technologies I worked with (Does not mean I am proficient in them):
-Python <br>
-SQL <br>
-JavaScript <br>
-HTML <br>
-CSS <br>
-PHP <br>
-C++ <br> 
-C <br> <br>
+Python, SQL, JavaScript, HTML, CSS, PHP, C++, C, Java (Learning), MASM (Learning). <br> <br>
 
 
 ## Coding Projects I have worked on
@@ -39,6 +32,7 @@ C <br> <br>
 [Diamond4Bot](https://github.com/OneEyedKnight/Diamond4Bot) - Forked from @Diamond4luck, written in Python. <br>
 [Dungeon Master](https://github.com/OneEyedKnight/DungeonMaster) - A discord bot written in JavaScript. <br>
 [Adrenaline Engine](https://github.com/OneEyedKnight/AdrenalineEngine) - Game engine written in C++ <br>
+[UWindsor Board Games Club Website](
 My own virtual assistant - Private, written in Python <br>
 Numerous Private Websites - Written in HTML, CSS, PHP, Python Flask.
 
