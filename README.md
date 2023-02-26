@@ -30,9 +30,9 @@ Python, SQL, JavaScript, HTML, CSS, PHP, C++, C, Java (Learning), MASM (Learning
 [Infamous](https://www.github.com/OneEyedKnight/Infamous) - A discord bot written in Python. <br>
 [Jishaku](https://github.com/OneEyedKnight/jishaku) - Forked from @Gorialis, written in Python. <br>
 [Diamond4Bot](https://github.com/OneEyedKnight/Diamond4Bot) - Forked from @Diamond4luck, written in Python. <br>
-[Dungeon Master](https://github.com/OneEyedKnight/DungeonMaster) - A discord bot written in JavaScript. <br>
+[Dungeon Master](https://github.com/UWindsorBGC/suite) - A discord bot written in JavaScript. <br>
 [Adrenaline Engine](https://github.com/OneEyedKnight/AdrenalineEngine) - Game engine written in C++ <br>
-[UWindsor Board Games Club Website](https://github.com/OneEyedKnight/uwindsorbgcsite) - A website for my club <br>
+[UWindsor Board Games Club Website](https://github.com/UWindsorBGC/suite) - A website for my club <br>
 My own virtual assistant - Private, written in Python <br>
 Numerous Private Websites - Written in HTML, CSS, PHP, Python Flask.
 
