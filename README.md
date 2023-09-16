@@ -15,15 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p> 
-I am a mess that can program in ten different programming languages or technologies. <br>
+I am a mess that can utilize several programming languages and technologies. <br>
 I am mostly self taught, but I would not consider myself proficient any language as I am always learning. <br>
 Not currently looking for any collaborators in my projects, but contributions are welcome. <br>
 I don't mind if you fork my repositories, as long as you keep your fork open source. <br>
 <b> Currently not looking for work as I am studying full time. </b>
 </p>
 
-### Languages and technologies I worked with (Does not mean I am proficient in them):
-Python, SQL, JavaScript, HTML, CSS, PHP, C++, C, Java (Learning), MASM (Learning). <br> <br>
+### Languages and Technologies I've used:
+*NOTE: This does not mean I am proficient with all of them.*
+Programming Languages: Python, C++, C, C#, JavaScript, TypeScript, PHP, HTML, CSS, Java, MASM, GDScript, and SQL.
+Technologies: Vulkan, discord.js, discord.py, Svelte, SvelteKit, Git, and CMake, Unity Game Engine, and Godot Game Engine.
 
 
 ## Coding Projects I have worked on
@@ -32,7 +34,7 @@ Python, SQL, JavaScript, HTML, CSS, PHP, C++, C, Java (Learning), MASM (Learning
 [Diamond4Bot](https://github.com/OneEyedKnight/Diamond4Bot) - Forked from @Diamond4luck, written in Python. <br>
 [Dungeon Master](https://github.com/UWindsorBGC/suite) - A discord bot written in JavaScript. <br>
 [Adrenaline Engine](https://github.com/OneEyedKnight/AdrenalineEngine) - Game engine written in C++ <br>
-[UWindsor Board Games Club Website](https://github.com/UWindsorBGC/suite) - A website for my club <br>
+[UWindsor Board Games Club Website](https://github.com/UWindsorBGC/suite) - A website and discord bot for my club <br>
 My own virtual assistant - Private, written in Python <br>
 Numerous Private Websites - Written in HTML, CSS, PHP, Python Flask.
 
