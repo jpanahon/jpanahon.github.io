@@ -24,8 +24,8 @@ I don't mind if you fork my repositories, as long as you keep your fork open sou
 
 ### Languages and Technologies I've used:
 *NOTE: This does not mean I am proficient with all of them.* <br> <br>
-Programming Languages: Python, C++, C, C#, JavaScript, TypeScript, PHP, HTML, CSS, Java, MASM, GDScript, and SQL. <br>
-Technologies: Vulkan, discord.js, discord.py, Svelte, SvelteKit, Git, and CMake, Unity Game Engine, and Godot Game Engine. <br> <br>
+**Programming Languages:** Python, C++, C, C#, JavaScript, TypeScript, PHP, HTML, CSS, Java, MASM, GDScript, and SQL. <br>
+**Technologies:** Vulkan, discord.js, discord.py, Svelte, SvelteKit, Git, and CMake, Unity Game Engine, and Godot Game Engine. <br> <br>
 
 
 ## Coding Projects I have worked on
