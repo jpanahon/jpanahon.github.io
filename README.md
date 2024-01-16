@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 <p> 
 I am a mess that can utilize several programming languages and technologies. <br>
-I am mostly self taught, but I would not consider myself proficient any language as I am always learning. <br>
+I am mostly self taught, but I would not consider myself proficient in any language as I am always learning. <br>
 Not currently looking for any collaborators in my projects, but contributions are welcome. <br>
 I don't mind if you fork my repositories, as long as you keep your fork open source. <br>
-<b> Currently not looking for work as I am studying full time. </b>
+<b> Currently looking for work as I am close to graduation. </b>
 </p>
 
 ### Languages and Technologies I've used:
@@ -30,6 +30,7 @@ I don't mind if you fork my repositories, as long as you keep your fork open sou
 
 ## Coding Projects I have worked on
 [Infamous](https://www.github.com/OneEyedKnight/Infamous) - A discord bot written in Python. <br>
+[What's Up With This Water?](https://www.github.com/jpanahon/SpaceApps2023) - A website for the 2023 NASA Space Apps Hackathon, written in Python.
 [Jishaku](https://github.com/OneEyedKnight/jishaku) - Forked from @Gorialis, written in Python. <br>
 [Diamond4Bot](https://github.com/OneEyedKnight/Diamond4Bot) - Forked from @Diamond4luck, written in Python. <br>
 [Dungeon Master](https://github.com/UWindsorBGC/suite) - A discord bot written in JavaScript. <br>
