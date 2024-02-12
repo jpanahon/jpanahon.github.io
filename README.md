@@ -31,8 +31,6 @@ I don't mind if you fork my repositories, as long as you keep your fork open sou
 ## Coding Projects I have worked on
 [Infamous](https://www.github.com/OneEyedKnight/Infamous) - A discord bot written in Python. <br>
 [What's Up With This Water?](https://www.github.com/jpanahon/SpaceApps2023) - A website for the 2023 NASA Space Apps Hackathon, written in Python.
-[Jishaku](https://github.com/OneEyedKnight/jishaku) - Forked from @Gorialis, written in Python. <br>
-[Diamond4Bot](https://github.com/OneEyedKnight/Diamond4Bot) - Forked from @Diamond4luck, written in Python. <br>
 [Dungeon Master](https://github.com/UWindsorBGC/suite) - A discord bot written in JavaScript. <br>
 [Adrenaline Engine](https://github.com/OneEyedKnight/AdrenalineEngine) - Game engine written in C++ <br>
 [UWindsor Board Games Club Website](https://github.com/UWindsorBGC/suite) - A website and discord bot for my club <br>
