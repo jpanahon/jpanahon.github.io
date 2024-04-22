@@ -1,5 +1,8 @@
-<title> Jovic's Space </title>
+<script>
+    import { base } from "$app/paths";
+</script>
 
+<title> Jovic's Space </title>
 <section class="text-center text-3xl">
     <h1 class="text-6xl">I write very persuasive essays to computers.</h1>
     <sub>Welcome to my website, I hope you enjoy your stay.</sub> <br />
@@ -13,7 +16,7 @@
             My open source game engine. This project is still under heavy development but has the capability to render
             complex 3D scenes in a few seconds, since going to university I was able to make my codebase more
             maintainable. <br />
-            <a href="/">Learn more</a>
+            <a href={base}>Learn more</a>
         </p>
     </section>
     <br /> <br />
@@ -29,7 +32,7 @@
             <b><a href="https://www.linkedin.com/in/umayerk">Umayer Khan</a></b> for the NASA Space Apps Challenge
             Hackathon. We created a web application powered by Django and StreamLit showcase endangered species and
             water quality information since the year 2000. <br />
-            <a href="/">Learn more</a>
+            <a href={base}>Learn more</a>
         </p>
     </section>
     <br /> <br />
@@ -43,7 +46,7 @@
             <b><a href="https://www.linkedin.com/in/matthewconnell-123456">Matthew Connell</a></b>, and
             <b><a href="https://www.linkedin.com/in/nickboisclair">Nick Boisclair</a></b>. We created an alien invasion
             themed campaign game with RPG and tower defense elements using the Unity Game Engine.
-            <br /> <a href="/">Learn more</a>
+            <br /> <a href={base}>Learn more</a>
         </p>
     </section>
     <br /> <br />
