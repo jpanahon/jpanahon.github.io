@@ -5,7 +5,7 @@ const dev = process.argv.includes("dev");
 const config = {
     kit: {
         adapter: adapter({
-            fallback: "./404.html",
+            fallback: `${dev ? "" : process.env.BASE_PATH}/404.html`,
         }),
         paths: {
             base: dev ? "" : process.env.BASE_PATH,
