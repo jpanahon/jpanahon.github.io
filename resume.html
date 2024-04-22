@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>Jovic Panahon's Resume</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            text-align: center;
+        }
+
+        .icons {
+            width: 16px;
+            height: 16px;
+            margin-bottom: -2px;
+            gap: 0;
+        }
+
+        .socials {
+            margin-left: 1rem;
+        }
+
+        .resume-section {
+            margin: 0 auto;
+            width: 50%;
+            padding: 1rem;
+        }
+
+        .dates {
+            display: inline-block;
+            justify-content: right;
+        }
+
+        ol {
+            list-style-position: inside;
+        }
+
+        ol li {
+            text-indent: 1.5rem;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Jovic Panahon</h1>
+        <a href="https://github.com/OneEyedKnight" target="_blank" class="socials">
+            <img src="static/github-mark.svg" class="icons">
+            jpanahon
+        </a>
+        <a href="https://www.linkedin.com/in/jovicpanahon/" target="_blank" class="socials">
+            <img src="static/linkedin.png" class="icons">
+            jovicpanahon
+        </a>
+        <a href="mailto:jovicpanahon@yahoo.com" target="_blank" class="socials">
+            <img src="static/email.png" class="icons">
+            jovicpanahon@yahoo.com
+        </a>
+    </header>
+    <section class="resume-section">
+        <h2>Skills</h2>
+        <hr>
+        <p><b>Programming Languages:</b> C++, C, C#, Python, JavaScript, PHP, HTML, CSS, and SQL.</p>
+        <p><b>Technologies:</b> Git, CMake, Vulkan, Svelte, SvelteKit, PostgresSQL, discord.js, discord.py and Unity
+            Game Engine.</p>
+    </section>
+    <section class="resume-section">
+        <h2>Education</h2>
+        <hr>
+        University of Windsor
+        <p class="dates">January 2022 - August 2024</p> <br> <br>
+        <p>
+            <b>Relevant Coursework:</b> Data Structures & Algorithms, Introduction to Object-Oriented Programming,
+            Introduction to Software Engineering, and Introduction to Game Design and Development.
+        </p>
+    </section>
+    <section class="resume-section">
+        <h2>Projects</h2>
+        <hr>
+        <a href="https://github.com/jpanahon/AdrenalineEngine">
+            <h3>Adrenaline Engine</h3>
+        </a>
+        <ol>
+            <li>Open source game engine project written in C++, taking advantage of the modern low-level <b>Vulkan
+                    Graphics API</b>.</li>
+            <li><b>Designed to be fast</b>, capable of rendering complex 3D scenes in <b>miliseconds</b>.</li>
+            <li>Uses the system resources it is given efficiently, <b>utilizing up to 2 GB of RAM to render a big
+                    complex scene.</b></li>
+        </ol>
+        <br>
+        <a href="https://github.com/jpanahon/SpaceApps2023">
+            <h3>What's Up With This Water?</h3>
+        </a>
+        <ol>
+            <li>A hackathon project for the 2023 NASA Space Apps Challenge What's Up With This Water?.</li>
+            <li>The project was a website that has searchable data about endangered marine animals and water quality in
+                the Ontario province, <b>it can search through hundreds of thousands of data.</b></li>
+            <li>Was in charge of implementing a SQLite database and deployed the project to Google Cloud Platform.
+                <b>Worked efficiently with 5 other people.</b>
+            </li>
+        </ol>
+    </section>
+</body>
+
+</html>
