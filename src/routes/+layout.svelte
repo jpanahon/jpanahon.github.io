@@ -1,4 +1,6 @@
 <script>
+    export const prerender = true;
+
     import "../app.css";
     let year = new Date().getFullYear();
 
