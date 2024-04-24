@@ -3,13 +3,15 @@
 </script>
 
 <title> Jovic's Space </title>
-<section class="text-center text-3xl">
-    <h1 class="text-6xl">I write very persuasive essays to computers.</h1>
-    <sub>Welcome to my website, I hope you enjoy your stay.</sub> <br />
-    <sub>Scroll Down &downarrow;</sub>
+<section class="flex h-screen justify-center items-center">
+    <div class="text-center">
+        <h1 class="text-6xl">I write very persuasive essays to computers.</h1>
+        <sub class="text-3xl">Welcome to my website, I hope you enjoy your stay.</sub> <br />
+        <sub class="text-6xl"><a href="#notable-projects">&vee;</a></sub>
+    </div>
 </section>
 <div class="w-1/2 m-auto">
-    <h1 class="text-6xl text-center">Notable Projects</h1>
+    <h1 class="text-6xl text-center" id="notable-projects">Notable Projects</h1>
     <section>
         <h1 class="text-3xl">Adrenaline Engine (2020 - present)</h1>
         <p>
