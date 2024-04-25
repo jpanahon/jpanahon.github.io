@@ -2,19 +2,16 @@
     import { base } from "$app/paths";
 </script>
 
-<title> Jovic's Space </title>
-<section class="flex h-screen justify-center items-center">
-    <div class="text-center">
-        <h1 class="text-6xl">I write very persuasive essays to computers.</h1>
-        <sub class="text-3xl">Welcome to my website, I hope you enjoy your stay.</sub> <br />
-        <sub class="text-6xl"><a href="#notable-projects">&vee;</a></sub>
-    </div>
+<section class="m-auto mb-16">
+    <h1 class="text-6xl text-center">My Projects</h1>
+    <sub class="text-3xl text-center">Here you will find a directory of all my projects that I can publicly share.</sub>
 </section>
-<div class="w-1/2 m-auto mb-16">
-    <h1 class="text-6xl text-center" id="notable-projects">Notable Projects</h1>
+
+<div class="w-1/2 m-auto">
     <section>
-        <h1 class="text-3xl">Adrenaline Engine (2020 - present)</h1>
-        <p>
+        <h1 class="text-3xl text-center">Adrenaline Engine (2020 - present)</h1>
+        <img src="{base}/screenshots/adrenaline-engine.jpg" alt="adrenaline engine ui" />
+        <p class="text-xl">
             My open source game engine. This project is still under heavy development but has the capability to render
             complex 3D scenes in a few seconds, since going to university I was able to make my codebase more
             maintainable. <br />
@@ -39,7 +36,8 @@
     </section>
     <br /> <br />
     <section>
-        <h1 class="text-3xl">Xeno: Area 51 (September - December 2023)</h1>
+        <h1 class="text-3xl text-center">Xeno: Area 51 (September - December 2023)</h1>
+        <img src="{base}/screenshots/xeno-area-51.jpg" alt="xeno area 51 gameplay" />
         <p>
             An open source video game project I worked on with
             <b><a href="https://www.linkedin.com/in/adnan-naeem-5b609623a">Adnan Naeem</a></b>,
