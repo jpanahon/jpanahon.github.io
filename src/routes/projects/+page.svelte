@@ -9,19 +9,19 @@
 
 <div class="w-1/2 m-auto">
     <section>
-        <h1 class="text-3xl text-center">Adrenaline Engine (2020 - present)</h1>
+        <h1 class="text-3xl text-center">Adrenaline Engine</h1>
         <img src="{base}/screenshots/adrenaline-engine.jpg" alt="adrenaline engine ui" />
         <p class="text-xl">
             My open source game engine. This project is still under heavy development but has the capability to render
             complex 3D scenes in a few seconds, since going to university I was able to make my codebase more
             maintainable. <br />
-            <a href={base}>Learn more</a>
+            <a href="{base}/projects/adrenaline-engine">Learn more</a>
         </p>
     </section>
     <br /> <br />
     <section>
-        <h1 class="text-3xl">What's Up With This Water? (October 2023)</h1>
-        <p>
+        <h1 class="text-3xl text-center">What's Up With This Water?</h1>
+        <p class="text-xl">
             An open source project I worked on with <b
                 ><a href="https://www.linkedin.com/in/ahmadmunim">Ahmad Munim</a></b
             >,
@@ -36,9 +36,9 @@
     </section>
     <br /> <br />
     <section>
-        <h1 class="text-3xl text-center">Xeno: Area 51 (September - December 2023)</h1>
+        <h1 class="text-3xl text-center">Xeno: Area 51</h1>
         <img src="{base}/screenshots/xeno-area-51.jpg" alt="xeno area 51 gameplay" />
-        <p>
+        <p class="text-xl">
             An open source video game project I worked on with
             <b><a href="https://www.linkedin.com/in/adnan-naeem-5b609623a">Adnan Naeem</a></b>,
             <b><a href="https://www.linkedin.com/in/joe-elson">Joe Elson</a></b>,
@@ -51,10 +51,48 @@
     </section>
     <br /> <br />
     <section>
-        <h1 class="text-3xl">The UWindsor Board Games Club Suite</h1>
-        <p>
-            An open source web app and discord bot for the University of Windsor Board Games Club. Serving over 300
-            members. <br /> <a href={base}>Learn more</a>
+        <h1 class="text-3xl text-center">The UWindsor Board Games Club Suite</h1>
+        <p class="text-xl">
+            An open source web app and discord bot for the University of Windsor Board Games Club. Serving over 300 club
+            members. I created a full fledged discord bot and later website for the club. <br />
+            <a href={base}>Learn more</a>
+        </p>
+    </section>
+    <br /> <br />
+    <section>
+        <h1 class="text-3xl text-center">Infamous</h1>
+        <p class="text-xl">
+            An open source general purpose discord bot <br /> <a href={base}>Learn more</a>
+        </p>
+    </section>
+    <br /> <br />
+    <section>
+        <h1 class="text-3xl text-center">Dragon Ballers Store</h1>
+        <p class="text-xl">
+            An open source store web app built for WinHacks 2024. <br /> <a href={base}>Learn more</a>
+        </p>
+    </section>
+    <br /> <br />
+    <section>
+        <h1 class="text-3xl text-center">Norepinephrine</h1>
+        <p class="text-xl">
+            An open source WIP fighting game made with SFML.<br /> <a href={base}>Learn more</a>
+        </p>
+    </section>
+    <br /> <br />
+    <section>
+        <h1 class="text-3xl text-center">CSS Boss Battle</h1>
+        <p class="text-xl">
+            An open source work in progress first person shooter game made with Unity.<br />
+            <a href={base}>Learn more</a>
+        </p>
+    </section>
+    <br /> <br />
+    <section class="mb-16">
+        <h1 class="text-3xl text-center">Windsor Open Data</h1>
+        <p class="text-xl">
+            An open source web application utilizing the city of Windsor, Ontario open data.<br />
+            <a href={base}>Learn more</a>
         </p>
     </section>
 </div>

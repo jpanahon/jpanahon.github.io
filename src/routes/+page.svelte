@@ -13,17 +13,17 @@
 <div class="w-1/2 m-auto mb-16">
     <h1 class="text-6xl text-center" id="notable-projects">Notable Projects</h1>
     <section>
-        <h1 class="text-3xl">Adrenaline Engine (2020 - present)</h1>
+        <h1 class="text-3xl text-center">Adrenaline Engine</h1>
         <p>
             My open source game engine. This project is still under heavy development but has the capability to render
             complex 3D scenes in a few seconds, since going to university I was able to make my codebase more
             maintainable. <br />
-            <a href={base}>Learn more</a>
+            <a href="{base}/projects/adrenaline-engine">Learn more</a>
         </p>
     </section>
     <br /> <br />
     <section>
-        <h1 class="text-3xl">What's Up With This Water? (October 2023)</h1>
+        <h1 class="text-3xl text-center">What's Up With This Water?</h1>
         <p>
             An open source project I worked on with <b
                 ><a href="https://www.linkedin.com/in/ahmadmunim">Ahmad Munim</a></b
@@ -39,7 +39,7 @@
     </section>
     <br /> <br />
     <section>
-        <h1 class="text-3xl">Xeno: Area 51 (September - December 2023)</h1>
+        <h1 class="text-3xl text-center">Xeno: Area 51</h1>
         <p>
             An open source video game project I worked on with
             <b><a href="https://www.linkedin.com/in/adnan-naeem-5b609623a">Adnan Naeem</a></b>,
@@ -53,10 +53,10 @@
     </section>
     <br /> <br />
     <section>
-        <h1 class="text-3xl">The UWindsor Board Games Club Suite</h1>
+        <h1 class="text-3xl text-center">The UWindsor Board Games Club Suite</h1>
         <p>
-            An open source web app and discord bot for the University of Windsor Board Games Club. Serving over 300
-            members. <br /> <a href={base}>Learn more</a>
+            An open source web app and discord bot for the University of Windsor Board Games Club. Serving over 300 club
+            members on our discord where we host online events. <br /> <a href={base}>Learn more</a>
         </p>
     </section>
 </div>
